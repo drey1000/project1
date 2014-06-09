@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client
+END
+keyring_storage.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/keyring_storage.py
+END
+gce.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/gce.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/__init__.py
+END
+tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/tools.py
+END
+locked_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/locked_file.py
+END
+crypt.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/crypt.py
+END
+old_run.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/old_run.py
+END
+multistore_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/multistore_file.py
+END
+appengine.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/appengine.py
+END
+clientsecrets.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/clientsecrets.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/util.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/client.py
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/file.py
+END
+django_orm.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/django_orm.py
+END
+xsrfutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/xsrfutil.py
+END
+anyjson.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/calendar-cmd-line/oauth2client/anyjson.py
+END
